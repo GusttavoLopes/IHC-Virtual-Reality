@@ -2,5 +2,5 @@
 ADS 3B - Primeiro Trabalho IHC
 
 # Integrantes
-Gustavo Lopes
-Victória Ferreira
+•	Gustavo Lopes
+•	Victória Ferreira
